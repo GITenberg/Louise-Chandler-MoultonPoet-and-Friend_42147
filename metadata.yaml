@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26052
     wikipedia: http://en.wikipedia.org/wiki/Lilian_Whiting
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42147#Louise-Chandler-MoultonPoet-and-Friend
 gutenberg_issued: '2013-02-21'
 gutenberg_type: Text
 identifiers:
