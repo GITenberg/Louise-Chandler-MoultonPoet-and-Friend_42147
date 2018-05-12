@@ -1,0 +1,29 @@
+_repo: Louise-Chandler-MoultonPoet-and-Friend_42147
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42147-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whiting, Lilian
+    alias: Whiting, Emily Lillian
+    birthdate: 1847
+    deathdate: 1942
+    gutenberg_agent_id: '26052'
+    url: http://www.gutenberg.org/2009/agents/26052
+    wikipedia: http://en.wikipedia.org/wiki/Lilian_Whiting
+description: ''
+gutenberg_issued: '2013-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42147'
+  lccn: '10021045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moulton, Louise Chandler, 1835-1908'
+- !lcc 'PS'
+title: Louise Chandler Moulton, Poet and Friend
+url: http://www.gutenberg.org/ebooks/42147
